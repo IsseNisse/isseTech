@@ -6,3 +6,7 @@
 .img {
     width: 100%;
 }
+  
+.cover-container {
+    max-width: 42em;
+}
