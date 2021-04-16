@@ -1,12 +1,8 @@
+body {
+    scroll-behavior: smooth;
+}
+
 .link-hover:hover {
     text-decoration: underline;
     text-decoration-color: white;
-}
-
-.img {
-    width: 100%;
-}
-  
-.cover-container {
-    max-width: 42em;
 }
